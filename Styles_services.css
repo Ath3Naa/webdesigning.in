@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+body{
+        background-image: linear-gradient(url(15.jpeg));
+
+}
+
+h1 {
+    text-align: center;
+    padding-top: 10px;
+    color: #F4BB44;
+}
+
+h1:hover{
+    color: #ffFFFF;
+}
+
+h3 {
+    text-align: center;
+    padding-top: 10px;
+    color: #F4BB44;
+
+}
+
+span{
+    color: #ffFFFF;
+
+}
+
+span:hover{
+    color: #F4BB44;
+}
+
+.Qp a{
+    float: left;
+    padding: 5px;
+    width: 360px;
+    height: 20px;
+    margin: auto;
+    background-color: #F4BB44;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #000000;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-out;
+}
+
+.Qp a:hover{
+    background-color: #ffFFFF;
+}
+
+.Qp a{
+    margin: 100;
+}
+
